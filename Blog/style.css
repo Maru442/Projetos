@@ -1,0 +1,45 @@
+@charset "UTF-8";  /*Arquivos com dicas para a contrução, ex015, 013.3, 012.1, 0.10*/
+@import url('https://fonts.googleapis.com/css2? família=Gloria+Aleluia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+    body{
+        background-image: linear-gradient(to right,  #d70270b0,  #724f96b0, #0038a8b0);
+        font-family:'Gloria Hallelujah', cursive, Arial, Helvetica, sans-serif;
+        color: #171614;
+    }
+    #principal{
+        text-align: center;
+        font-family:'Gloria Hallelujah', cursive;
+    }
+    .titulo{
+        font-family:'Gochi Hand', cursive, Arial, Helvetica, sans-serif;
+        font-size: 22px;
+        color:black;
+        text-align: justify;
+    }
+    h2{
+        font-size: 20px;
+        color: black;
+        font-family: 'Gochi Hand', cursive, Arial, Helvetica, sans-serif;
+        text-align: justify;
+    }
+    p{
+        font-size: 16px;
+        color: black;
+        font-family:'Caveat Brush', cursive ,Arial, Helvetica, sans-serif;
+        text-align: justify;
+    }
+    .center{
+        float:none; display:block; margin-left:auto; margin-right:auto;
+    }
+    main{
+        background-color: white;
+        border-radius: 20px;
+        box-shadow: 5px 5px 15px #3A2618;
+        width: 600px;
+        padding: 10px;
+        margin: auto;
+    }
+.adeus{
+    text-align: right;
+}
